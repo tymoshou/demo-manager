@@ -23,4 +23,8 @@ public class DemoController {
         mav.setViewName("hello");
         return mav;
     }
+
+    public void get(){
+
+    }
 }
